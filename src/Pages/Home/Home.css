@@ -1,0 +1,17 @@
+/* .home_page{
+    background-color: bisque;
+} */
+
+.logout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 220px;
+    height: 60px;
+    border-radius: 50px;
+    color: #fff;
+    background-color: #4c00b4;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+}
